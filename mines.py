@@ -270,7 +270,7 @@ def win_situation():
 
 def map_mine_validation(row,col):
     if(mine_field_compute[row][col] == mine):
-        mine_field[row][col] = " X "
+        mine_field[row][col] = " \033[1;31;40mX\033[0;37;40m "
         map_show()
         print("\033[1;31;40mYou hit a mine! \033[0;37;40m")
         return False

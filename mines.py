@@ -1,3 +1,4 @@
+# author: Jaroslav Kvasnička
 import os
 import random
 import time

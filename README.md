@@ -11,3 +11,8 @@ All instructions are in game runtime
 **time**    used for slowing down giving instructions and making game more fluent  
 **math**    used for calculating euclidian distances  
 **random**  used for map generating  
+
+## Play
+1) Download the script
+2) Use command "python mines.py" or "python3 mines.py" to turn game on
+3) Enjoy gameplay :)

@@ -29,7 +29,7 @@ def introduction():
     time.sleep(1)
     print("Find all free spots")
     time.sleep(1)
-    print("Don't step in a mine!\033[0;37;10m")
+    print("Don't step on a mine!\033[0;37;10m")
     input("continue by hitting \"Enter\":")
     clear()
     return
